@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Henrique Ramos",
+            "cpf": "00000014141",
+            "email":"henrique@gmail.com.br",
+            "whatsapp":"51999999999",
+            "address": {
+                "postalcode":"94065000",
+                "street":"Rua Dom Feliciano",
+                "number":"1890",
+                "details":"Casa",
+                "district": "Central",
+                "city_state": "Gravataí/RS"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "João Lucas",
+        "cpf": "x00000141aa",
+            "email":"Lucas@gmail.com.br",
+            "whatsapp":"51999999999",
+            "address": {
+                "postalcode":"94065000",
+                "street":"Rua Dom Feliciano",
+                "number":"1890",
+                "details":"Casa",
+                "district": "Central",
+                "city_state": "Gravataí/RS"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Henrique Ramos",
+            "cpf": "00000014141",
+            "email":"henrique.com.br",
+            "whatsapp":"51999999999",
+            "address": {
+                "postalcode":"94065000",
+                "street":"Rua Dom Feliciano",
+                "number":"1890",
+                "details":"Casa",
+                "district": "Central",
+                "city_state": "Gravataí/RS"
+            },
+            "delivery_method": "Moto",
+            "cnh":"cnh-digital.jpg"
+        }
+}
